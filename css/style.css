@@ -148,13 +148,6 @@ body {
   -webkit-text-fill-color: transparent;
 }
 
-.profil p {
-  margin-top: 2rem;
-  font-size: 1.2rem;
-  font-family: "Funnel Sans", sans-serif;
-  color: #dcdcdc;
-}
-
 /* subjudul */
 .subjudul {
   font-size: 5rem;
@@ -408,13 +401,6 @@ footer .credit span {
     padding: 1.25rem;
     border-top-right-radius: 0.9375rem;
     border-top-left-radius: 0.9375rem;
-  }
-
-  .profil p {
-    margin-top: 2rem;
-    font-size: 1.2rem;
-    font-family: "Funnel Sans", sans-serif;
-    color: #dcdcdc;
   }
 
   /* subjudul */
